@@ -38,7 +38,7 @@ dependencies {
 }
 
 def libraryGroupId = 'com.myth'
-def libraryArtifactId = 'loginservice'
+def libraryArtifactId = 'social-login-service'
 def libraryVersion = '0.0.1'
 
 publishing {
